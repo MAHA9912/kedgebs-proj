@@ -2,20 +2,20 @@ body{
 	background-color:white;
 }
 
-h2{
-	margin-top: -30px;
-	color: #ffcc00;
-	font-family: kunstler script;
-	font-size:30px;
-	text-align: center; 
-}
-
 .img1{
 	text-align: center;
 	height: 300px;
 	margin-left: 500px;
 	margin-right: 500px;
 	margin-top: -50px;
+}
+
+h2{
+	margin-top: -30px;
+	color: #ffcc00;
+	font-family: kunstler script;
+	font-size:30px;
+	text-align: center; 
 }
 	
 p{
@@ -31,7 +31,7 @@ p{
 	position: relative;
 	padding-top: 20px;
 	margin-left: -350px;
-	margin-right: 100px
+	margin-right: 100px;
 }
 
 #menu ul li{
@@ -105,21 +105,19 @@ h3{
 	font-size: 30px; 
 }
 
-.img2{
-	margin: auto;
-	width:60%;
-	height:30%;
-	
-	}
-
 #selection{
 	float: right;
 	margin-right:300px;
 	font-size: 25px;
 	font-family: Gabriola;
-	margin-top: -400px
+	margin-top: -400px;
 }
 
+.img2{
+	margin: auto;
+	width:60%;
+	height:30%;	
+}
 
 #footer{
 	font-size: 20px;
@@ -155,5 +153,4 @@ h4{
 	font-size: 20px; 
 	margin-top: 100px;
 	color:#ffcc00;
-
 }
